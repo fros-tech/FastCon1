@@ -1,0 +1,15 @@
+C:\Users\Frank Rosbak\RiderProjects\FastCon1\FastCon1\bin\Debug\net7.0\FastCon1.exe
+C:\Users\Frank Rosbak\RiderProjects\FastCon1\FastCon1\bin\Debug\net7.0\FastCon1.deps.json
+C:\Users\Frank Rosbak\RiderProjects\FastCon1\FastCon1\bin\Debug\net7.0\FastCon1.runtimeconfig.json
+C:\Users\Frank Rosbak\RiderProjects\FastCon1\FastCon1\bin\Debug\net7.0\FastCon1.dll
+C:\Users\Frank Rosbak\RiderProjects\FastCon1\FastCon1\bin\Debug\net7.0\FastCon1.pdb
+C:\Users\Frank Rosbak\RiderProjects\FastCon1\FastCon1\obj\Debug\net7.0\FastCon1.csproj.AssemblyReference.cache
+C:\Users\Frank Rosbak\RiderProjects\FastCon1\FastCon1\obj\Debug\net7.0\FastCon1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Frank Rosbak\RiderProjects\FastCon1\FastCon1\obj\Debug\net7.0\FastCon1.AssemblyInfoInputs.cache
+C:\Users\Frank Rosbak\RiderProjects\FastCon1\FastCon1\obj\Debug\net7.0\FastCon1.AssemblyInfo.cs
+C:\Users\Frank Rosbak\RiderProjects\FastCon1\FastCon1\obj\Debug\net7.0\FastCon1.csproj.CoreCompileInputs.cache
+C:\Users\Frank Rosbak\RiderProjects\FastCon1\FastCon1\obj\Debug\net7.0\FastCon1.dll
+C:\Users\Frank Rosbak\RiderProjects\FastCon1\FastCon1\obj\Debug\net7.0\refint\FastCon1.dll
+C:\Users\Frank Rosbak\RiderProjects\FastCon1\FastCon1\obj\Debug\net7.0\FastCon1.pdb
+C:\Users\Frank Rosbak\RiderProjects\FastCon1\FastCon1\obj\Debug\net7.0\FastCon1.genruntimeconfig.cache
+C:\Users\Frank Rosbak\RiderProjects\FastCon1\FastCon1\obj\Debug\net7.0\ref\FastCon1.dll
